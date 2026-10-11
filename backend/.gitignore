@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env*.local
+!.env.example
+
+# Temporary upload and test files
+tmp/
+temp/
+coverage/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
